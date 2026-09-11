@@ -1,0 +1,96 @@
+.group-wWM3zP_M- {
+  background-color: #fff;
+  border-color: #020e23;
+  border-radius: unset;
+}
+
+
+.chart-container-border {
+  background-color: #ffffff !important;
+}
+.button-13wlLwhJ-.hovered-FUo4RNOC-,
+.feature-no-touch .button-13wlLwhJ-:active,
+.feature-no-touch .button-13wlLwhJ-:hover,
+.feature-touch .button-13wlLwhJ-:active {
+
+  background-color: #fff !important;
+  color: #ffffff;
+}
+
+.button-2ioYhFEY-.isInteractive-20uLObIc-.hovered-3perbaxJ-,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:active,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:hover,
+.feature-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:active {
+  color: #357ce0;
+}
+
+.chart-page .chart-container {
+  border-color: #1b2331;
+  background-color: #ffffff;
+}
+
+.toggleButton-13QgefpG- {
+  bottom: 250px !important;
+}
+
+.inner-1xuW-gY4- {
+  background-color: #020e23;
+}
+
+/*.common-tooltip-vertical {*/
+/*  bottom: 50% !important;*/
+/*}*/
+
+.subGroup-1JpgB9zD- > :not(:first-child):before {
+  background-color: #151b26;
+}
+
+.loading-indicator {
+  background: #1b2331 !important;
+}
+
+.button-263WXsg--.isActive-2mI1-NUL- .icon-1Y-3MM9F- {
+  background-color: rgba(183, 213, 234, 0.1);
+  border-radius: 3px;
+}
+
+.button-263WXsg-- .icon-1Y-3MM9F- {
+  color: #466d89;
+}
+
+.feature-no-touch .button-263WXsg-- .icon-1Y-3MM9F-:hover {
+  color: #ccc;
+}
+
+.Kline-resolutionparent:hover,
+.group-wWM3zP_M- .indicator:hover {
+  cursor: pointer;
+}
+
+.Kline-resolutionparent.cur {
+  background: #dcebff !important;
+}
+
+.Kline-resolutionparent:hover .customButton--jqJTfH5-,
+.Kline-resolutionparent:active .customButton--jqJTfH5-,
+.Kline-resolutionparent.cur .customButton--jqJTfH5-,
+.group-wWM3zP_M- .indicator:hover,
+.group-wWM3zP_M- .indicator:active {
+  color: #1677ff;
+}
+
+.pane-legend-title__interval,
+.pane-legend-title__details {
+  display: none;
+}
+
+.wrap-3tiHesTk- {
+  height: 30px;
+  padding-top: 5px;
+}
+.customButton--jqJTfH5- {
+  padding: 7px 15px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #7A98F7;
+}
